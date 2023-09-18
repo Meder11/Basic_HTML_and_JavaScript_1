@@ -1,1 +1,18 @@
-alert("Hello, world")
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Tech Academy</title>
+
+<script>
+alert("Hello, world!")
+</script>
+
+</head>
+
+<body>
+<h1>Introduce yourself</h1>
+<p><font color="blue">I am God's son.</font></p>
+</body>
+
+</html>
