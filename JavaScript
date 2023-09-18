@@ -12,7 +12,7 @@ alert("Hello, world!")
 
 <body>
 <h1>Introduce yourself</h1>
-<p><font color="blue">I am God's son.</font></p>
+<p><font color="blue", face="calibri", size="12.5">I am God's son.</font></p>
 </body>
 
 </html>
